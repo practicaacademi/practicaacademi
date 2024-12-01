@@ -1,0 +1,3 @@
+S git config user. name "practicaacademi"
+S git config user. email "nederantonio2010@hotmail.com"
+S git remote add origin "https://github.com/practicaacademi/practicaacademi.git"
